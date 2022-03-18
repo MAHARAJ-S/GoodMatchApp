@@ -1,0 +1,14 @@
+D:\Users\User-PC\Documents\GoodMatchApp\GoodMatchApp\bin\Debug\netcoreapp3.1\GoodMatchApp.exe
+D:\Users\User-PC\Documents\GoodMatchApp\GoodMatchApp\bin\Debug\netcoreapp3.1\GoodMatchApp.deps.json
+D:\Users\User-PC\Documents\GoodMatchApp\GoodMatchApp\bin\Debug\netcoreapp3.1\GoodMatchApp.runtimeconfig.json
+D:\Users\User-PC\Documents\GoodMatchApp\GoodMatchApp\bin\Debug\netcoreapp3.1\GoodMatchApp.runtimeconfig.dev.json
+D:\Users\User-PC\Documents\GoodMatchApp\GoodMatchApp\bin\Debug\netcoreapp3.1\GoodMatchApp.dll
+D:\Users\User-PC\Documents\GoodMatchApp\GoodMatchApp\bin\Debug\netcoreapp3.1\GoodMatchApp.pdb
+D:\Users\User-PC\Documents\GoodMatchApp\GoodMatchApp\obj\Debug\netcoreapp3.1\GoodMatchApp.csproj.AssemblyReference.cache
+D:\Users\User-PC\Documents\GoodMatchApp\GoodMatchApp\obj\Debug\netcoreapp3.1\GoodMatchApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User-PC\Documents\GoodMatchApp\GoodMatchApp\obj\Debug\netcoreapp3.1\GoodMatchApp.AssemblyInfoInputs.cache
+D:\Users\User-PC\Documents\GoodMatchApp\GoodMatchApp\obj\Debug\netcoreapp3.1\GoodMatchApp.AssemblyInfo.cs
+D:\Users\User-PC\Documents\GoodMatchApp\GoodMatchApp\obj\Debug\netcoreapp3.1\GoodMatchApp.csproj.CoreCompileInputs.cache
+D:\Users\User-PC\Documents\GoodMatchApp\GoodMatchApp\obj\Debug\netcoreapp3.1\GoodMatchApp.dll
+D:\Users\User-PC\Documents\GoodMatchApp\GoodMatchApp\obj\Debug\netcoreapp3.1\GoodMatchApp.pdb
+D:\Users\User-PC\Documents\GoodMatchApp\GoodMatchApp\obj\Debug\netcoreapp3.1\GoodMatchApp.genruntimeconfig.cache
